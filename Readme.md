@@ -1,4 +1,4 @@
-﻿🇮🇳 Blockchain Voting dApp - A Secure & Transparent Election Platform
+In Blockchain Voting dApp - A Secure & Transparent Election Platform
 A secure, full-stack decentralized application for conducting elections, built on the Ethereum blockchain. This project demonstrates a complete workflow from administrator setup to voter self-registration and secure voting, featuring a React frontend, a Node.js backend for secure hashing, and a Solidity smart contract.
 📖 Project Overview
 The goal of this project is to solve the challenges of trust and transparency in traditional voting systems. By leveraging blockchain technology, this dApp ensures that every vote is immutable, verifiable, and anonymous, while the election process itself is managed by a transparent and auditable smart contract.
